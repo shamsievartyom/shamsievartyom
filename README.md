@@ -1,6 +1,6 @@
 # 👋 Hi there! 
 
-I'm Artem, a React developer with a passion for leveraging modern technologies to create compelling web applications.
+I'm Artem, a React developer who is interested in using modern technologies for web development.
 
 ## 💻 Tech Stack
 
