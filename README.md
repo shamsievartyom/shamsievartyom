@@ -1,13 +1,21 @@
-## 👋 Hi there! 
+# 👋 Hi there! 
 
-I'm Artem, a React developer who is interested in using modern technologies for web development.
+I'm Artem, a React developer with a passion for leveraging modern technologies to create compelling web applications.
 
-I have experience in building web applications using technologies such as HTML5, CSS3, TypeScript, React, Redux, and more. I've also worked with backend technologies including Express and MongoDB.
+## 💻 Tech Stack
 
-I'm currently focusing on mastering my React and Redux skills and exploring new technologies and tools to broaden my skillset.
+Here's a glimpse of the technologies I work with:
 
-## Main technologies
-| HTML5 | CSS3 | JavaScript | TypeScript | React | Redux | Jest | MongoDB |
+- **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React, Redux
+- **Testing**: Jest
+- **Database**: MongoDB
+- **Backend**: (mention if you have experience here)
+
+I enjoy crafting responsive and user-friendly interfaces using HTML5, CSS3, and modern JavaScript/TypeScript. React and Redux are my go-to tools for building dynamic and maintainable web applications.
+
+## 🚀 Current Focus
+
+I'm currently immersed in honing my skills in React and Redux to create even more efficient and user-centric applications. Alongside that, I keep my eye on emerging technologies and tools to keep my skillset up-to-date.
 
 <!--
 **shamsievartyom/shamsievartyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
