@@ -1,10 +1,8 @@
 ## 👋 Hi there! 
 
-I'm Artem, an enthusiastic Junior React Developer with a thirst for knowledge and a passion for solving problems. I have a knack for writing clean, readable, and maintainable code. 
+I'm Artem, a React developer who is interested in using modern technologies for web development.
 
-I have experience in building web applications using technologies such as HTML5, CSS3, TypeScript, React, Redux, and more. I've also worked with backend technologies including Express and MongoDB. I'm always eager to learn new things and improve my skills.
-
-Previously, I've worked on a messenger server application using technologies like JS, Express, Pug, MongoDB + Mongoose, 0Auth, SSE, and REST API. 
+I have experience in building web applications using technologies such as HTML5, CSS3, TypeScript, React, Redux, and more. I've also worked with backend technologies including Express and MongoDB.
 
 I'm currently focusing on mastering my React and Redux skills and exploring new technologies and tools to broaden my skillset.
 
