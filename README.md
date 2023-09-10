@@ -9,7 +9,7 @@ Here's a glimpse of the technologies I work with:
 - **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React, Redux
 - **Testing**: Jest, Cypress
 - **Database**: MongoDB
-- **Backend**: Express, Pug
+- **Backend**: Express, Pug, Auth0
 
 I enjoy crafting responsive and user-friendly interfaces using HTML5, CSS3, and modern JavaScript/TypeScript. React and Redux are my go-to tools for building dynamic and maintainable web applications.
 
