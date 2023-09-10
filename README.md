@@ -7,9 +7,9 @@ I'm Artem, a React developer with a passion for leveraging modern technologies t
 Here's a glimpse of the technologies I work with:
 
 - **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React, Redux
-- **Testing**: Jest
+- **Testing**: Jest, Cypress
 - **Database**: MongoDB
-- **Backend**: (mention if you have experience here)
+- **Backend**: Express, Pug
 
 I enjoy crafting responsive and user-friendly interfaces using HTML5, CSS3, and modern JavaScript/TypeScript. React and Redux are my go-to tools for building dynamic and maintainable web applications.
 
