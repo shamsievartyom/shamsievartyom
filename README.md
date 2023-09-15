@@ -4,7 +4,7 @@ I'm Artem, a React developer who is interested in using modern technologies for 
 
 ## 💻 Tech Stack
 
-Here's a glimpse of the technologies I work with:
+Here's a list of the technologies I work with:
 
 - **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React, Redux
 - **Testing**: Jest, Cypress
