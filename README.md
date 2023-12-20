@@ -6,7 +6,7 @@ I'm Artem, a React developer who is interested in using modern technologies for 
 
 Here's a list of the technologies I work with:
 
-- **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React, Redux
+- **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React, Redux, Three
 - **Testing**: Jest, Cypress
 - **Database**: MongoDB
 - **Backend**: Express, Pug, Auth0
